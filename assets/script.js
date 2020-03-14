@@ -14,9 +14,6 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 
-
-
-
 function generatePassword() {
 
   // Defining variables used, including arrays for each password component
